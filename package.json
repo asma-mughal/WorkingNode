@@ -1,0 +1,15 @@
+{
+  "name": "asmacode",
+  "version": "1.0.0",
+  "description": "learning NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Asma",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.3",
+    "nodemailer": "^6.9.10"
+  }
+}
